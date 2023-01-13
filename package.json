@@ -1,0 +1,27 @@
+{
+  "name": "jifri-angular-extension-pack",
+  "displayName": "Angular Extension pack by Jifri",
+  "description": "Jifri Angular Extension pack",
+  "publisher": "jifri",
+  "repository": {
+    "url": "https://github.com/jifrivly/Angular-Extension-Pack"
+  },
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "Angular.ng-template",
+    "johnpapa.Angular2",
+    "Mikael.Angular-BeastCode",
+    "ktriek.ng-bootstrap-snippets",
+    "dbaeumer.vscode-eslint",
+    "herrherrmann.angular-bootstrap",
+    "thekalinga.bootstrap4-vscode",
+    "AnbuselvanRocky.bootstrap5-vscode",
+    "ms-vscode.vscode-typescript-next"
+  ]
+}
