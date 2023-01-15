@@ -1,12 +1,12 @@
 {
   "name": "jifri-angular-extension-pack",
-  "displayName": "Angular Extension pack by Jifri",
-  "description": "Jifri Angular Extension pack",
+  "displayName": "Angular Extension pack",
+  "description": "Angular Extension pack",
   "publisher": "jifri",
   "repository": {
     "url": "https://github.com/jifrivly/Angular-Extension-Pack"
   },
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.74.0"
   },
